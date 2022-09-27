@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  width: 70%;
+  margin: auto;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  text-size-adjust: 100%;
+
+}
+.left {
+  text-align: start;
+  padding: 12px 24px;
+}
+.right {
+  padding: 12px 24px;
+}
+img{
+  width: 100%;
+}
+h1 {
+    font-size: 36px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  letter-spacing: 5px;
+  margin: 10px;
+  font-weight: 400;
+}
+h4{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    letter-spacing: 5px;
+}
+p{
+    font-size: 11px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
